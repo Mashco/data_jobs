@@ -39,8 +39,11 @@ Interactive Excel dashboard analyzing global data job postings: salaries, skills
 ### Power Query Transformations
 ![Screenshot 2026-03-23 135640](https://github.com/user-attachments/assets/29dd9f74-c246-44c0-a6d3-7347fd0a13e3)
 
-### Data Tables/ Models
-![Data Model](screenshots/data_model.png)
+### Analysis
+![screenshot_analysis 2](https://github.com/user-attachments/assets/07415b9a-8074-4e08-8d1c-7bf199d51164)
+
+![screenshot_analysis 3](https://github.com/user-attachments/assets/e10f56d0-d397-4576-b103-0d661ed13547)
+
 
 ## 🚀 How to Use / Explore
 1. Download the file: [`Data_Jobs_Analysis_Dashboard.xlsx`](Data_Jobs_Analysis_Dashboard.xlsx)
